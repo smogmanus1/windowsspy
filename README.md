@@ -1,3 +1,4 @@
+   ![The Windows 11 Files - WindowsSpy](windowsspyimg.jpg)
 # WindowsSpy
 
 **Watch what Windows does. Decide what to do about it.**
